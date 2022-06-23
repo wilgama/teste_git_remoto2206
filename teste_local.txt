@@ -1,1 +1,2 @@
 arquivolocal
+remoto para local
